@@ -1,1 +1,1 @@
-# Alzheimer-Detection-and-Classification
+This project aims to apply machine learning techniques for the classification of Alzheimer's disease. Utilizing a comprehensive dataset, the goal is to develop a model that accurately identifies Alzheimer's from various inputs, providing a valuable tool in healthcare diagnostics.
